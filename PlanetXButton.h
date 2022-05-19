@@ -1,5 +1,5 @@
-#ifndef _PlanetXBUTTON_H_
-#define _PlanetXBUTTON_H_
+#ifndef _PLANETXBUTTON_H_
+#define _PLANETXBUTTON_H_
 
 #include "RJPins.h"
 #include "Button.h"
